@@ -6,14 +6,14 @@ My projects tend to wander through game servers, mapping tools, networking, desk
 
 Currently working on **Otter Game**, an early multiplayer game project with a [Java/Quarkus server](https://github.com/Astarisk/otter-game) and a [TypeScript/Three.js client](https://github.com/Astarisk/otter-client). Both are still taking shape.
 
-### Currently exploring
-
-Currently exploring machine learning through probabilistic weather forecasting: LightGBM, quantile regression, conformal calibration, time-series evaluation, meteorological feature engineering, and intraday data fusion.
-
 ### Things I work with
 
 **Languages:** Java · Python · TypeScript / JavaScript · SQL · Clojure  
 **Tools & frameworks:** Quarkus · Django · Angular · React · Three.js · Leaflet · Docker · Maven · Bun
+
+### Currently exploring
+
+Currently exploring machine learning through probabilistic weather forecasting: LightGBM, quantile regression, conformal calibration, time-series evaluation, meteorological feature engineering, and intraday data fusion.
 
 ### A few projects
 
