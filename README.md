@@ -8,7 +8,7 @@ Currently working on **Otter Game**, an early multiplayer game project with a [J
 
 ### Currently exploring
 
-I'm also building **Ghastly**, a private research project exploring probabilistic weather forecasting. It combines city- and station-specific LightGBM point and quantile models, conformal uncertainty calibration, time-safe walk-forward evaluation, meteorological feature engineering, and intraday observation fusion. The goal is to turn temperature distributions into useful probabilities for discrete ranges, using Brier score, log loss, and calibration error to test whether each added signal actually helps.
+Currently exploring machine learning through probabilistic weather forecasting: LightGBM, quantile regression, conformal calibration, time-series evaluation, meteorological feature engineering, and intraday data fusion.
 
 ### Things I work with
 
