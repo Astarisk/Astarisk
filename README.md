@@ -9,7 +9,7 @@ Currently working on **Otter Game**, an early multiplayer game project with a [J
 ### Things I work with
 
 **Languages:** Java · Python · TypeScript / JavaScript · SQL · Clojure  
-**Tools & frameworks:** Quarkus · Django · React · Three.js · Leaflet · Docker · Maven · Bun
+**Tools & frameworks:** Quarkus · Django · Angular · Three.js · Leaflet · Docker · Maven · Bun
 
 ### A few projects
 
