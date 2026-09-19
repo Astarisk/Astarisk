@@ -13,7 +13,7 @@ Currently working on **Otter Game**, an early multiplayer game project with a [J
 
 ### Currently exploring
 
-Currently exploring machine learning through probabilistic weather forecasting: LightGBM, quantile regression, conformal calibration, time-series evaluation, meteorological feature engineering, and intraday data fusion.
+Machine learning through probabilistic weather forecasting: LightGBM, quantile regression, conformal calibration, time-series evaluation, meteorological feature engineering, and intraday data fusion.
 
 ### A few projects
 
